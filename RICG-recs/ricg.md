@@ -1,6 +1,6 @@
 # TAG Recommenations to the RICG
 
-On the 31st of May, Marcos Cáceres* gave an overview to the TAG members of the challenges being faced by the Responsive Images Community Group (RICG). 
+On the 31st of May, Marcos Cáceres gave an overview to the TAG members of the challenges being faced by the Responsive Images Community Group (RICG). 
 
 ## History 
 Over the last two years, the RICG has been trying to solve the problem of "responsive images": given a set of environmental and device constraints (network type, device dimensions and pixel ratio), the user agent should select an image most appropriate to present to an end-user. This work grew out of much real-world experimentation within the Web Development community to try to solve this problem with various hacks and polyfills (see [0] for an overview of techniques currently used in the wild and pros and cons of each approach). Given the limitations and issues with the techniques found in [0], the Web development community got organized to try to work with browser makers to come up with a "in browser" solution. 
