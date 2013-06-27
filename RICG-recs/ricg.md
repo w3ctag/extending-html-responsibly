@@ -35,10 +35,11 @@ on how to proceed forward.
 ## TAG Recommendations
 
 1. The TAG recommends that the RICG continue to formalize and popularize
-polyfills that meet their use cases (and not wait for browser makers to
-implement their specification). Reaching critical mass with polyfills should
-help convince browser makers that a solution should indeed be standardized for
-the benefit of end-users, even if it takes a few more years.
+polyfills that meet their use cases, like 
+[Picturefill](https://github.com/scottjehl/picturefill) (and not wait for browser 
+makers to implement their specification). Reaching critical mass with polyfills
+should help convince browser makers that a solution should indeed be standardized 
+for the benefit of end-users, even if it takes a few more years.
 
 2. The TAG recommends that the RICG discourage developers from directly using
 the `<picture>` element or `srcset` on the Web before the solution is
