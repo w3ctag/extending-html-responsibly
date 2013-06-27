@@ -61,7 +61,7 @@ http://extensiblewebmanifesto.org/).
 
 ## Links
 
-[0] http://css-tricks.com/which-responsive-images-solution-should-you-use/ 
-[1] http://usecases.responsiveimages.org 
-[2] http://picture.responsiveimages.org 
-[3] http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/
+ * [0] http://css-tricks.com/which-responsive-images-solution-should-you-use/ 
+ * [1] http://usecases.responsiveimages.org 
+ * [2] http://picture.responsiveimages.org 
+ * [3] http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/
