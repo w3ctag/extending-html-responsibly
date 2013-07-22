@@ -43,10 +43,11 @@ for the benefit of end-users, even if it takes a few more years.
 
 2. The TAG recommends that the RICG discourage developers from directly using
 the `<picture>` element or `srcset` on the Web before the solution is
-standardized and widely available in browsers. This is to avoid conflicts. If
+standardized and widely available in browsers. This is to avoid compatibility 
+conflicts if browser start to implement `<picture>` in the future. If
 browsers do end up exposing srcset, they should only do so behind a user
-settable flag until there is wide consensus that that is the right solution for
-the Web platform.
+settable flag (not a vendor prefix!) until there is wide consensus that that 
+is the right solution for the Web platform.
 
 3. The TAG recommends polyfilling a solution based on Web Components and
 encourages the RICG to reach out to high profile polyfill implementations (e.g.,
